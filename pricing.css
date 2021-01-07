@@ -1,0 +1,59 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+	margin: 400px;
+ 	max-width: 10px;
+	padding: 10px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+body{
+margin-left: 20px;
+margin-top: 10px;
+
+}
+
+
+h1{
+text-align: center;
+margin-top: 40px;
+padding-bottom: 20px;
+
+}
+
+figure{
+text-align: center;
+padding-top: 240px;
+
+}
+
+
+.temoignages {
+
+margin: 400px;
+padding: 20px;
+margin-top: 20px;
+margin-bottom: 50px;
+
+}
+
+
+.avantages{
+
+margin: 70px;
+padding: 40px;
+margin-left: 20px;
+margin-right: 20px;
+
+
+
+}	
